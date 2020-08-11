@@ -1,2 +1,2 @@
 # Machine-Learning-Exercises
-Programming Exercieses of Machine Learning course taught by Andrew Ng.
+Programming Exercises of Machine Learning course taught by Andrew Ng.
